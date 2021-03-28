@@ -2,7 +2,9 @@
 
 - 💼  I'm currently a desktop client engineer(mainly macOS/Linux), with 3 yrs system-level programming experience.
 - 🎯 I'm currently seeking a job in backend(Golang/Java/C++), need for referral.
-- 📫 How to reach me: `bHlubmwueWV0QGdtYWlsLmNvbQ==` (Base64)
+- 📫 How to reach me:
+  - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
+  - WeChat: `c3BhY2VfYm9oZW1pYW4=`
 - ⚡ Fun fact: Love Funk music.
 
 <!--
