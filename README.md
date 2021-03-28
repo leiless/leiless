@@ -1,6 +1,9 @@
-### Hi there 👋
+#### Hi there 👋 I'm _leiless_
 
-![](https://visitor-badge.glitch.me/badge?page_id=leiless/README.md)
+- 💼  I'm currently a desktop client engineer(mainly macOS/Linux), with 3 yrs system-level programming experience.
+- 🎯 I'm currently seeking a job in backend(Golang/Java/C++), need for referral.
+- 📫 How to reach me: `bHlubmwueWV0QGdtYWlsLmNvbQ==` (Base64)
+- ⚡ Fun fact: Love Funk music.
 
 <!--
 **leiless/leiless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
