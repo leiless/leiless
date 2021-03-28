@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
   - WeChat: `c3BhY2VfYm9oZW1pYW4=`
-- ⚡ Fun fact: Love Funk music.
+- ⚡ Fun fact: Love Funk music; Check my [gist](https://gist.github.com/leiless).
 
 <!--
 **leiless/leiless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
