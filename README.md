@@ -1,7 +1,7 @@
 #### Hi there 👋 I'm _leiless_
 
 - 💼  I'm currently a desktop client engineer(mainly macOS/Linux), with 3 yrs system-level programming experience.
-- 🎯 I'm currently seeking a job in backend(Golang/Java/C++), need for referral.
+- 🎯 I'm currently seeking a job in backend(Golang/Java), need for referral.
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
   - WeChat: `c3BhY2VfYm9oZW1pYW4=`
