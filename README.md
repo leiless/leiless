@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm _leiless_
+#### Hi there 👋 I'm Fishbone, a.k.a _leiless_.
 
 - 💼 I'm currently a freshman backend developer, mainly focused on Java/Go.
 - 📫 How to reach me:
