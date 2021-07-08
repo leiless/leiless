@@ -1,9 +1,11 @@
-#### Hi there 👋 I'm Fishbone, a.k.a _leiless_.
+#### Hi there 👋 I'm _leiless_, a.k.a Fishbone.
 
+- 🪡 Having over four years of system-level programming in macOS/Linux.
 - 💼 I'm currently a freshman backend developer, mainly focused on Java/Go.
+- 🦀 I'm currently learning Rust in my spare time.
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
-  - WeChat: `c3BhY2VfYm9oZW1pYW4=`
+  - Telegram `bWVtbGVhaw==`
 - ⚡ Fun fact: Love Funk music; Check my [gist](https://gist.github.com/leiless).
 
 <!--
