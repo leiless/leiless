@@ -1,8 +1,7 @@
 #### Hi there 👋 I'm _leiless_, a.k.a Fishbone.
 
-- 🪡 Having over four years of system-level programming experience in macOS/Linux.
+- 🦾 Having over four years of system-level programming experience in macOS/Linux.
 - 💼 I'm currently a backend developer(freshman), mainly focused on Java/Go.
-- 🦀 I'm currently learning Rust in my spare time.
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
   - Telegram `bWVtbGVhaw==`
