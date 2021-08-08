@@ -2,6 +2,7 @@
 
 - 🦾 Having over four years of system-level programming experience in macOS/Linux.
 - 💼 I'm currently a backend developer(freshman), mainly focused on Java/Go.
+- 🦝 I'm currently solidifying my CS foundation, gonna be a long journey.
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
   - Telegram `bWVtbGVhaw==`
