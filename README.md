@@ -1,14 +1,13 @@
 #### Hi there 👋 I'm _leiless_, a.k.a Fishbone.
 
-- 🦾 Having over four years of system-level programming experience in macOS/Linux.
-- 💼 I'm currently a backend developer(freshman), mainly focused on Java/Go.
-- 🦝 I'm currently solidifying my CS foundation, gonna be a long journey.
+- 🧳 Having over four years of system-level programming experience in macOS/Linux.
+- 🔭 I'm currently a backend developer(freshman), mainly focused on Java/Go.
+- 🌱 I'm currently solidifying my CS foundation, gonna be a long journey.
 - 📫 How to reach me:
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
-  - Telegram `bWVtbGVhaw==`
+  - Telegram `QHNwYWNlX2JvaGVtaWFu`
 - ⚡ Fun fact:
-  - Love Funk music
-  - Have fun with my [gist](https://gist.github.com/leiless)
+  - Dream of having a SGMW car
 
 <!--
 **leiless/leiless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
