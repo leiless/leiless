@@ -7,7 +7,7 @@
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
   - Telegram `QHNwYWNlX2JvaGVtaWFu`
 - ⚡ Fun fact:
-  - Dream of having a SGMW car
+  - Dream of having a SGMW-Hongguang car
 
 <!--
 **leiless/leiless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
