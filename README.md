@@ -5,7 +5,7 @@
 - 🌱 I'm currently solidifying my CS foundation, gonna be a long journey.
 - 📫 How to reach me
   - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
-  - Telegram `QHNwYWNlX2JvaGVtaWFu`
+  - Telegram `QGR1bW15X2RvZ2U=`
 - ⚡ Fun fact
   - Hope to be an open-source developer one day
 
