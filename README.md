@@ -3,9 +3,6 @@
 - 🧳 Having over four years of system-level programming experience in macOS/Linux/Windows.
 - 🔭 I'm currently a backend developer, mainly focused on Python and Java.
 - 🌱 I'm currently solidifying my CS foundation, gonna be a long journey.
-- 📫 How to reach me
-  - Email: `bHlubmwueWV0QGdtYWlsLmNvbQ==`
-  - Telegram: `QGR1bW15X2RvZ2U=`
 - ⚡ Fun fact
   - Hope to be an [indie maker](https://www.whatisanindiemaker.com/) in the near future.
 
